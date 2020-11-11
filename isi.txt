@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 820E-F0B5
+
+ Directory of C:\Users\Jarvis\latihan\Project03
+
+11/11/2020  19:36    <DIR>          .
+11/11/2020  19:36    <DIR>          ..
+11/11/2020  19:33                17 habibie.txt
+11/11/2020  19:36                 0 isi.txt
+               2 File(s)             17 bytes
+               2 Dir(s)  11.001.290.752 bytes free
